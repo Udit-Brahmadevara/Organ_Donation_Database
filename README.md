@@ -36,7 +36,7 @@ Below is the visual representation of the database schema:
 ├── images/
 │ └── ER_Diagram.jpeg #ER diagram
 └── README.md # Project documentation (this file)
-
+```
 
 ## 🗃️ Core Schema Components
 
