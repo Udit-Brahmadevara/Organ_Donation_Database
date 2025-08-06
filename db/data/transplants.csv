@@ -1,0 +1,61 @@
+transplantid,matchid,hospitalid,leadsurgeonid,transplantdate,outcome
+15001,8890001,43,11114,2023/08/24,Successful transplant but patient experienced minor post-operative complications which are being managed
+15002,8890002,17,11647,2018/09/29,Successful transplant with no immediate complications. Patient is stable and recovering well.
+15003,8890003,11,11507,2019/05/02,Successful transplant but patient experienced minor post-operative complications which are being managed
+15004,8890004,37,11667,2024/12/14,Organ was successfully transplanted but showed signs of primary graft dysfunction. Patient is under close observation.
+15005,8890005,28,11621,2018/12/25,Surgery was successful but the patient's condition remains critical due to pre-existing comorbidities.
+15006,8890006,11,11531,2018/06/03,Surgery was successful but the patient's condition remains critical due to pre-existing comorbidities.
+15007,8890007,4,11983,2021/11/23,Organ was successfully transplanted but showed signs of primary graft dysfunction. Patient is under close observation.
+15008,8890008,15,11201,2025/02/01,Successful transplant but patient experienced minor post-operative complications which are being managed
+15009,8890009,24,11471,2019/10/03,Surgery was successful but the patient's condition remains critical due to pre-existing comorbidities.
+15010,8890010,15,11522,2023/07/31,Successful transplant with no immediate complications. Patient is stable and recovering well.
+15011,8890011,17,11802,2023/07/23,Successful transplant but patient experienced minor post-operative complications which are being managed
+15012,8890012,3,11903,2018/05/11,Successful transplant but patient experienced minor post-operative complications which are being managed
+15013,8890013,49,11690,2024/07/20,Organ was successfully transplanted but showed signs of primary graft dysfunction. Patient is under close observation.
+15014,8890014,3,11445,2019/11/27,Successful transplant but patient experienced minor post-operative complications which are being managed
+15015,8890015,46,11288,2022/05/03,Organ was successfully transplanted but showed signs of primary graft dysfunction. Patient is under close observation.
+15016,8890016,40,11430,2024/11/16,Organ was successfully transplanted but showed signs of primary graft dysfunction. Patient is under close observation.
+15017,8890017,28,11432,2024/07/29,Surgery was successful but the patient's condition remains critical due to pre-existing comorbidities.
+15018,8890018,32,11389,2019/02/04,Successful transplant with no immediate complications. Patient is stable and recovering well.
+15019,8890019,29,11327,2022/07/10,Successful transplant with no immediate complications. Patient is stable and recovering well.
+15020,8890020,11,11854,2024/12/26,Organ was successfully transplanted but showed signs of primary graft dysfunction. Patient is under close observation.
+15021,8890021,8,11706,2023/01/03,Surgery was successful but the patient's condition remains critical due to pre-existing comorbidities.
+15022,8890022,2,11547,2024/06/18,Successful transplant but patient experienced minor post-operative complications which are being managed
+15023,8890023,7,11362,2020/08/17,Surgery was successful but the patient's condition remains critical due to pre-existing comorbidities.
+15024,8890024,27,11706,2019/10/01,Surgery was successful but the patient's condition remains critical due to pre-existing comorbidities.
+15025,8890025,33,11118,2022/09/08,Successful transplant with no immediate complications. Patient is stable and recovering well.
+15026,8890026,23,11772,2025/03/08,Successful transplant but patient experienced minor post-operative complications which are being managed
+15027,8890027,15,12102,2020/09/23,Successful transplant with no immediate complications. Patient is stable and recovering well.
+15028,8890028,18,11814,2021/01/20,Patient rejected the organ during surgery. Procedure was terminated.
+15029,8890029,41,11205,2020/02/07,Successful transplant but patient experienced minor post-operative complications which are being managed
+15030,8890030,39,11220,2018/11/11,Successful transplant with no immediate complications. Patient is stable and recovering well.
+15031,8890031,15,11300,2020/03/21,Surgery was successful but the patient's condition remains critical due to pre-existing comorbidities.
+15032,8890032,37,11171,2020/01/14,Surgery was successful but the patient's condition remains critical due to pre-existing comorbidities.
+15033,8890033,3,12059,2021/10/10,Successful transplant but patient experienced minor post-operative complications which are being managed
+15034,8890034,29,11844,2021/12/17,Successful transplant with no immediate complications. Patient is stable and recovering well.
+15035,8890035,1,11938,2019/11/15,Successful transplant but patient experienced minor post-operative complications which are being managed
+15036,8890036,7,12032,2019/04/08,Surgery was successful but the patient's condition remains critical due to pre-existing comorbidities.
+15037,8890037,33,11714,2023/05/23,Surgery was successful but the patient's condition remains critical due to pre-existing comorbidities.
+15038,8890038,11,11659,2021/11/08,Surgery was successful but the patient's condition remains critical due to pre-existing comorbidities.
+15039,8890039,20,11216,2023/12/12,Successful transplant but patient experienced minor post-operative complications which are being managed
+15040,8890040,27,11489,2023/01/05,Organ was successfully transplanted but showed signs of primary graft dysfunction. Patient is under close observation.
+15041,8890041,27,11177,2023/08/07,Patient rejected the organ during surgery. Procedure was terminated.
+15042,8890042,33,12083,2019/11/12,Successful transplant but patient experienced minor post-operative complications which are being managed
+15043,8890043,38,11184,2022/01/26,Organ was successfully transplanted but showed signs of primary graft dysfunction. Patient is under close observation.
+15044,8890044,12,11721,2020/11/01,Successful transplant but patient experienced minor post-operative complications which are being managed
+15045,8890045,35,11313,2021/04/12,Patient rejected the organ during surgery. Procedure was terminated.
+15046,8890046,14,11842,2019/05/07,Organ was successfully transplanted but showed signs of primary graft dysfunction. Patient is under close observation.
+15047,8890047,48,11469,2019/01/02,Organ was successfully transplanted but showed signs of primary graft dysfunction. Patient is under close observation.
+15048,8890048,5,11859,2023/11/01,Successful transplant with no immediate complications. Patient is stable and recovering well.
+15049,8890049,38,12072,2022/01/14,Patient rejected the organ during surgery. Procedure was terminated.
+15050,8890050,16,11771,2021/02/28,Successful transplant with no immediate complications. Patient is stable and recovering well.
+15051,8890051,38,12070,2018/06/13,Organ was successfully transplanted but showed signs of primary graft dysfunction. Patient is under close observation.
+15052,8890052,24,11465,2021/03/08,Successful transplant but patient experienced minor post-operative complications which are being managed
+15053,8890053,48,11418,2023/06/14,Patient rejected the organ during surgery. Procedure was terminated.
+15054,8890054,24,11428,2019/01/10,Patient rejected the organ during surgery. Procedure was terminated.
+15055,8890055,48,11172,2018/08/07,Surgery was successful but the patient's condition remains critical due to pre-existing comorbidities.
+15056,8890056,28,11840,2022/02/14,Patient rejected the organ during surgery. Procedure was terminated.
+15057,8890057,26,11360,2021/06/10,Patient rejected the organ during surgery. Procedure was terminated.
+15058,8890058,36,11286,2022/08/22,Successful transplant but patient experienced minor post-operative complications which are being managed
+15059,8890059,16,11359,2021/12/01,Successful transplant with no immediate complications. Patient is stable and recovering well.
+15060,8890060,32,11157,2023/12/30,Organ was successfully transplanted but showed signs of primary graft dysfunction. Patient is under close observation.
