@@ -28,14 +28,14 @@ Below is the visual representation of the database schema:
 
 ## 🗂️ Project Structure
 
-.
+```.
 ├── db/
 │ ├── create.sql # Schema definitions (tables, keys, constraints, indexes)
 │ ├── load.sql # Script to load CSV data using \COPY
 │ ├── er_diagram.png # ER diagram (include in README)
 │ └── data/ # Folder containing mock/generated CSV data
 ├── .gitignore
-└── README.md # Project documentation (this file)
+└── README.md # Project documentation (this file)```
 
 
 ---
