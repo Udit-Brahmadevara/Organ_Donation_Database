@@ -20,7 +20,7 @@ It ensures data integrity, compatibility-based matching, and end-to-end traceabi
 🧩 Entity-Relationship Diagram (ERD)
 Below is the visual representation of the database schema:
 
-![ER Diagram](https://github.com/Udit-Brahmadevara/Organ_Donation_Database/blob/main/images/ER_Diagram.jpeg)
+![ER Diagram](/images/ER_Diagram.jpeg)
 
 🗂️ Project Structure
 plaintext
