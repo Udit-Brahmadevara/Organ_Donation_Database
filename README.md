@@ -35,10 +35,8 @@ Below is the visual representation of the database schema:
 │ ├── er_diagram.png # ER diagram (include in README)
 │ └── data/ # Folder containing mock/generated CSV data
 ├── .gitignore
-└── README.md # Project documentation (this file)```
+└── README.md # Project documentation (this file)
 
-
----
 
 ## 🗃️ Core Schema Components
 
