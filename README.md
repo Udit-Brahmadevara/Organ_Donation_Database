@@ -18,6 +18,14 @@ It ensures data integrity, compatibility-based matching, and end-to-end traceabi
 
 ---
 
+## 📊 Data Visualization
+
+Data exploration and dashboarding for this project have been performed using **Looker Studio** (Google Data Studio).  
+You can view the live dashboard and visualizations here:  
+[Organ Donation Data Visualizations – Looker Studio](https://lookerstudio.google.com/s/tsxtcFJezN8)
+
+---
+
 ## 🧩 Entity-Relationship Diagram (ERD)
 
 Below is the visual representation of the database schema:
