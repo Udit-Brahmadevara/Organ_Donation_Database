@@ -109,7 +109,7 @@ psql -U your_username -d transplant_db -f db/load.sql
 
 ## 👨‍💻 Team
 
-- Udit Bharmadevara – uditbrah@buffalo.edu
+- Udit Brahmadevara – uditbrah@buffalo.edu
 - Mohan Kakarla – mkakarla@buffalo.edu
 - Santosh Mohan Jena – sjena@buffalo.edu
 
